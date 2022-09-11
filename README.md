@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairhumble" alt="uzairhumble" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/humble_pro" target="blank"><img src="https://img.shields.io/twitter/follow/humble_pro?logo=twitter&style=for-the-badge" alt="humble_pro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/humble__pro" target="blank"><img src="https://img.shields.io/twitter/follow/humble_pro?logo=twitter&style=for-the-badge" alt="humble_pro" /></a> </p>
 
 - 🌱 I’m currently learning **Advance JavaScript.**
 
