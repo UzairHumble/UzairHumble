@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/humble__pro" target="blank"><img src="https://img.shields.io/twitter/follow/humble_pro?logo=twitter&style=for-the-badge" alt="humble_pro" /></a> </p>
 
-- 🌱 I’m currently learning **Advance JavaScript.**
+- 🌱 I’m currently learning **React.js.**
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/Uzair%20Malik/Desktop/extra/portf/index.html](file:///C:/Users/Uzair%20Malik/Desktop/extra/portf/index.html)
 
-- 💬 Ask me about **Html,Css,Bootstrap**
+- 💬 Ask me about **Html, CSS, Bootstrap**
 
 - 📫 How to reach me **Uzairmalik2329@gmail.com**
 
